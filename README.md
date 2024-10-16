@@ -85,5 +85,7 @@ The best-performing model was **Ridge**, achieving an R2 of **0.75** on the test
 
 ## Streamlit App
 You can interact with the Market Sales Prediction application through the following link: [Market Sales Prediction App](https://market-sales-prediction.streamlit.app/v)
-`https://market-sales-prediction.streamlit.app/`
+```bash
+https://market-sales-prediction.streamlit.app/
+ ```
 
